@@ -1,6 +1,6 @@
 %\documentclass[10pt, a4paper, draft, twocolumn]{paper}
 
-%\documentclass[9pt, a4paper, hyperref, draft, twocolumn]{article}
+%%\documentclass[9pt, a4paper, hyperref, draft, twocolumn]{article}
 \documentclass[10pt, a4paper, hyperref,  twocolumn]{article}
 
 \usepackage{color}
